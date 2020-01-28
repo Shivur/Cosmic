@@ -1,13 +1,13 @@
 <?php
 use App\Config;
 
-$GLOBALS['language'] = array (
+$GLOBALS['Brasileirk'] = array (
     'website' => array (
         /*     App/View/base.html     */
         'base' => array(
             'nav_home'              => 'Home',
 
-            'nav_community'         => 'Community',
+            'nav_communi'         => 'Community',
             'nav_news'              => 'News',
             'nav_jobs'              => 'Jobs',
             'nav_photos'            => 'Photos',
